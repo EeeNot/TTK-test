@@ -1,0 +1,14 @@
+body {
+    background: lightgray;
+}
+
+.field {
+    background: white;
+}
+.btn-group {
+    margin-top: 39px;
+    margin-left: -13px;
+}
+.row {
+    padding: 10px;
+}
